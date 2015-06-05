@@ -1,0 +1,52 @@
+
+h1 {
+  font-family: 'Michroma', sans-serif;
+  font-size: 48px;
+  font-weight: 300;
+  text-align: center;
+}
+
+button{
+  background-color: #000;
+  color: #fff;
+  border: 0;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+button:hover{
+
+}
+
+#ascii {
+  font-size: 10px;
+  line-height: 10px;
+  letter-spacing: -1.5px;
+  text-align: center;
+  width: 730px;
+  float: left;
+  /*margin: 0 auto;*/
+}
+
+#snapshot-container{
+  float: left;
+  padding: 10px 15px;
+}
+
+#snapshot{
+  font-size: 4px;
+  line-height: 5px;
+  width: 385px;
+  margin-top: 10px;
+}
+
+.dark{
+  background-color: #000;
+  color: green;
+}
+
+/*.email-input{
+  display: none;
+}*/
